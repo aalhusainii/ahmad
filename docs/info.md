@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+dsign contain four inverts .four inputs are directly connected to outputs and rest to outputs and rest of them are inverted.
 
 ## How to test
 
-Explain how to use your project
+just toggle the inputs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no external hardware
